@@ -5,48 +5,6 @@ function excecuteWithConfirm(url, message) {
 	}
 }
 
-//function beforeAction(message) {
-//	return confirm(message);
-//}
-
-//function callPopup(message, title){
-//	AUI().ready('aui-dialog', 'aui-overlay-manager', 'dd-constrain', function(A) {
-//		var dialog = new A.Dialog({
-//			title: title,
-//			centered: true,
-//			modal: true,
-//			draggable: false,
-//			width: 500,
-//			bodyContent: message
-//		}).render();
-//	});
-//}
-
-//function getAjaxRequest(actionUrl, afterResponse, title) {
-//	return YUI().io.request(actionUrl,{
-//		autoLoad: false,
-//		on: {
-//			success: function() {
-//				var response = this.get('responseData');
-//				afterResponse(response, title);
-//			}
-//		}
-//	});
-//}
-
-
-//function showInviteDrugForm(actionUrl, drugRepresentativeId, surgeryId, companyId, filterValue) {
-//	var ajaxRequest = getAjaxRequest(actionUrl, callPopup, 'Invite Drug Representative Form');
-//	
-//	ajaxRequest.set("data", {
-//		drugRepresentativeId: drugRepresentativeId,
-//		surgeryId: surgeryId,
-//		companyId: companyId,
-//		filterValue: filterValue
-//	});
-//	
-//	ajaxRequest.start();
-//}
 
 function confirmAppTime(form, weekDay, time) {
 	console.log("Submit form");

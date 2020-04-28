@@ -18,5 +18,5 @@
 
 <portlet:defineObjects />
 
-<liferay-theme:defineObjects />
+<liferay-theme:defineObjects />asda
 

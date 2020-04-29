@@ -9,7 +9,7 @@ Liferay.Service.registerClass(
 		getAddresses: true,
 		updateAddress: true
 	}
-);s
+);
 
 Liferay.Service.registerClass(
 	Liferay.Service.Portal, "ClassName",

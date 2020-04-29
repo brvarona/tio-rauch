@@ -1,5 +1,6 @@
 function main2() {
-	console.log("main2");
-		console.log("modificacion-julian");
+
+	console.log("supermacado chino");
+	console.log("prueba2");
 
 }

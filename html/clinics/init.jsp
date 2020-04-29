@@ -20,3 +20,5 @@
 
 <liferay-theme:defineObjects />
 
+<liferay-theme:defineObjects2 />
+

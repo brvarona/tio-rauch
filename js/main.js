@@ -1,9 +1,6 @@
 function main2() {
-
-
-
-	console.log("supermacado chino");
-	console.log("prueba2");
+	
+	console.log("estoy desarrollando funcionalidad buscador");
 
 
 }

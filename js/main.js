@@ -1,4 +1,4 @@
 function main2() {
-	console.log("main2");
-	qwqasass
+	console.log("supermacado chino");
+	console.log("prueba2");
 }
